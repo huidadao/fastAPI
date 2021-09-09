@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+sqlalchemy
+databases
+aiomysql
+mysqlclient
+passlib
+python-jose>=3.0.0
